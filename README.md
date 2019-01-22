@@ -7,6 +7,7 @@ changes such as
 * reduction of products count
 * change in the status of couriers(busy or free) 
 * change in orderstatus (registered, delivering, done, finished) 
+
 are all implemented in the triggers.sql file.
 
 procedures.sql file includes all procedures available to different users (guest or registered customers)
