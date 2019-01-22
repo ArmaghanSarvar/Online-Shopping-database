@@ -10,7 +10,7 @@ changes such as
 
 are all implemented in the triggers.sql file.
 
-procedures.sql file includes all procedures available to different users (guest or registered customers) such as
+procedures.sql file includes procedures available(granted) to different users (guest or registered customers) such as
 * updating the login information(like password)
 * ordering
 * adding different products
